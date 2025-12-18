@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_header"
+        android:title=""
+        app:actionLayout="@layout/menu_profile_header" />
+
+    <item
+        android:id="@+id/menu_change_photo"
+        android:icon="@drawable/ic_camera"
+        android:title="Change Profile Photo" />
+
+    <item
+        android:id="@+id/menu_switch_account"
+        android:icon="@drawable/ic_switch_account"
+        android:title="Switch Account" />
+
+    <item
+        android:id="@+id/menu_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="Logout" />
+
+</menu>

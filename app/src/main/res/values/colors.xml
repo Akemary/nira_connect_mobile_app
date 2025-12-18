@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Uganda Colors (Keep first occurrence) -->
+    <color name="uganda_yellow">#FCDC04</color>
+    <color name="uganda_black">#000000</color>
+    <color name="uganda_red">#D90000</color>
+
+    <!-- Primary Colors (Choose one set - I'm keeping the blue ones) -->
+    <color name="primary_color">#2563EB</color>
+    <color name="primary_dark">#1D4ED8</color>
+    <color name="primary_light">#DBEAFE</color>
+
+    <!-- Neutral Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#F8FAFC</color>
+    <color name="gray_100">#F1F5F9</color>
+    <color name="gray_200">#E2E8F0</color>
+    <color name="gray_400">#94A3B8</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="gray_600">#475569</color>
+    <color name="gray_800">#1E293B</color>
+    <color name="dark_gray">#424242</color>
+
+    <!-- Card Colors -->
+    <color name="card_blue_light">#E0F2FE</color>
+    <color name="card_green_light">#DCFCE7</color>
+    <color name="card_purple_light">#F3E8FF</color>
+    <color name="card_orange_light">#FFEDD5</color>
+    <color name="card_red_light">#FEE2E2</color>
+
+    <!-- Text Colors (Keep consistent set) -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_tertiary">#94A3B8</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- Status Colors (Combined and deduplicated) -->
+    <color name="status_submitted">#2196F3</color>
+    <color name="status_pending">#F59E0B</color>
+    <color name="status_approved">#4CAF50</color>
+    <color name="status_rejected">#F44336</color>
+    <color name="status_in_progress">#3B82F6</color>
+    <color name="status_ready">#10B981</color>
+    <color name="status_completed">#059669</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary_color">#1976D2</color>
+    <color name="secondary_dark">#004BA0</color>
+    <color name="secondary_light">#63A4FF</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_color">#FF5722</color>
+    <color name="accent_dark">#C41C00</color>
+    <color name="accent_light">#FF8A50</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#FAFAFA</color>
+
+    <!-- Chart Colors -->
+    <color name="chart_blue">#4285F4</color>
+    <color name="chart_green">#34A853</color>
+    <color name="chart_yellow">#FBBC05</color>
+    <color name="chart_red">#EA4335</color>
+    <color name="chart_purple">#9C27B0</color>
+
+    <!-- Divider -->
+    <color name="divider_color">#E0E0E0</color>
+</resources>
